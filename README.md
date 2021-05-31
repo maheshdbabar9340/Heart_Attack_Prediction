@@ -3,6 +3,13 @@ Heart Attack EDA (Exploratory Data Analysis) Prediction using KNN Classification
 
 You can take a view on python code in python file which is already implemented in Jupyter Notebook(.ipynb file)
 
+
+
+![image](https://user-images.githubusercontent.com/53929423/120224810-c2c15b00-c261-11eb-977c-44425fb29ed6.png)
+
+
+
+
     Univariate Analysis
 
     Categorical and Target features
