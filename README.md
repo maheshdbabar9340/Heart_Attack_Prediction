@@ -1,7 +1,7 @@
 # Heart_Attack_Prediction
 Heart Attack EDA (Exploratory Data Analysis) Prediction using KNN Classification, Logistic Regression, Random Forest Classifier, AdaBoost Classifier, Gradient Boosting Classifier, LightGBM, XGBoost with Cross Validation and XG Boost 
 
-You can take a view on python code in python file which is already implemented in Jupyter Notebook(.ipnyb file)
+You can take a view on python code in python file which is already implemented in Jupyter Notebook(.ipynb file)
 
     Univariate Analysis
 
